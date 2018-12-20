@@ -1,0 +1,2 @@
+FLASK_APP=helloworld
+FLASK_ENV=development
